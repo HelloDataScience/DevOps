@@ -1,0 +1,8 @@
+dev:
+  write: false
+  db-path: dev-db
+test:
+  write: true
+prod:
+  write: true
+  db-path: prod-db
